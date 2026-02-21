@@ -47,21 +47,33 @@ git push -u origin main
 
  Teammate updated predict.py and README.md
 
-You updated utils.py and config.py
-
-Need to sync and push changes safely
+updated utils.py and config.py
 
  Check current changes
+
 git status
+ 
  Shows modified files
- Stage your changes
+ 
+ Stage changes
+
 git add utils.py config.py
+
 Stage your work
-Commit your changes
+
+Commit  changes
+
 git commit -m "Updated utilities and configuration settings"
+
 Save your work locally
+
 Pull latest teammate updates
+
 git pull origin main
+
 Push final project
+
 git push origin main
- Uploads your final version to GitHub
+ 
+ Uploads  final version to GitHub
+
